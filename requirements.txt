@@ -1,0 +1,8 @@
+langchain
+langchain-openai
+streamlit
+langchain-community
+langchain-core
+fastapi[standard]
+python-dotenv
+requests
